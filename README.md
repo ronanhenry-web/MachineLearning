@@ -28,8 +28,8 @@ conda install -c conda-forge jupyterlab
 # Il faut que Jupyter soit installé
 # cf "method 2" dans
 # https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874
-(ml)$ conda install ipykernel
-(ml)$ ipython kernel install --user --name=ml
+conda install ipykernel
+ipython kernel install --user --name=ml
 
 # Lancer jupyter lab
-(ml)$ jupyter lab
+jupyter lab
