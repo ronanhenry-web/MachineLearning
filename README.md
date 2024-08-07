@@ -4,20 +4,26 @@ Projet Python / Découvrir le concept du MachineLearning avec kNN, régression e
 
 ## Démarrer
 
+Le projet a été créé sous Miniconda, pour le démarrer suivre les étapes suivantes.
+
 ### Création d'un environnement python dédié au cours de machine learning: ml
 
-La solution conseillée: utilisation de conda
+La solution conseillée : utilisation de conda
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 Création d'environnement :
 ```bash
 conda create -n ml python=3.11
+```
+```bash
 conda env list
 ```
 
 Se placer dans l'environnement :
 ```bash
 conda activate ml
+```
+```bash
 (ml) ➜  ~
 ```
 
@@ -36,6 +42,8 @@ Ajout de l'environnement à Jupyter, il faut que Jupyter soit installé :
 cf "method 2" dans (https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
 ```bash
 conda install ipykernel
+```
+```bash
 ipython kernel install --user --name=ml
 ```
 
