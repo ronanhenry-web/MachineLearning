@@ -1,6 +1,6 @@
 # CI-CD
 
-Projet Python, découvrir le concept du ML avec kNN, régression et classification supervisée
+Projet Python / Découvrir le concept du MachineLearning avec kNN, régression et classification supervisée
 
 ## Démarrer
 
