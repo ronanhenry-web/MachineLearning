@@ -1,6 +1,6 @@
-# CI-CD
+# Projet Python
 
-Projet Python / Découvrir le concept du MachineLearning avec kNN, régression et classification supervisée
+Découvrir le concept du MachineLearning avec kNN, régression et classification supervisée
 
 ## Démarrer
 
@@ -54,6 +54,4 @@ jupyter lab
 
 ## Sources & Outils
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
