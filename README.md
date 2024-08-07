@@ -40,6 +40,7 @@ conda install -c conda-forge jupyterlab
 Ajout de l'environnement à Jupyter, il faut que Jupyter soit installé :
 
 cf "method 2" dans (https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
+
 ```bash
 conda install ipykernel
 ```
