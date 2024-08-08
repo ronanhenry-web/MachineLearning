@@ -1,4 +1,4 @@
-# Projet Python
+# Projet Machine Learning
 
 Découvrir le concept du MachineLearning avec kNN, régression et classification supervisée
 
