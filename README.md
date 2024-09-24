@@ -1,17 +1,17 @@
-# Projet Machine Learning
+# Machine Learning Project
 
-Découvrir le concept du MachineLearning avec kNN, régression et classification supervisée
+Discovering the concept of Machine Learning with k-NN, regression, and supervised classification
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous Miniconda, pour le démarrer suivre les étapes suivantes.
+The project was created using Miniconda. To get it running, follow these steps :
 
-### Création d'un environnement python dédié au cours de machine learning: ml
+### Creating a dedicated Python environment for the machine learning: ml
 
-La solution conseillée : utilisation de conda
+Recommended solution: use conda
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-Création d'environnement :
+Create the environment :
 ```bash
 conda create -n ml python=3.11
 ```
@@ -19,7 +19,7 @@ conda create -n ml python=3.11
 conda env list
 ```
 
-Se placer dans l'environnement :
+Activate the environment :
 ```bash
 conda activate ml
 ```
@@ -27,7 +27,7 @@ conda activate ml
 (ml) ➜  ~
 ```
 
-Installation de librairies, par exemple ISLP :
+Install libraries, for example, ISLP :
 ```bash
 pip install ISLP
 ```
@@ -37,9 +37,9 @@ Install jupyter lab (https://jupyterlab.readthedocs.io/en/stable/getting_started
 conda install -c conda-forge jupyterlab
 ```
 
-Ajout de l'environnement à Jupyter, il faut que Jupyter soit installé :
+Add the environment to Jupyter (Jupyter must be installed) :
 
-cf "method 2" dans (https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
+cf "method 2" in (https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
 
 ```bash
 conda install ipykernel
@@ -48,11 +48,11 @@ conda install ipykernel
 ipython kernel install --user --name=ml
 ```
 
-Lancer jupyter lab :
+Start Jupyter Lab :
 ```bash
 jupyter lab
 ```
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
